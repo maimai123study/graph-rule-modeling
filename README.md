@@ -1,2 +1,2 @@
 # graph-rule-modeling
-图规则建模
+Entity Profiling with Graph Rules
